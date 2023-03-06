@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Taller</string>
+    <string name="result">Resultado</string>
+    <string name="nro1">#1</string>
+    <string name="nro2">#2</string>
+    <string name="suma">+</string>
+    <string name="resta">-</string>
+    <string name="multip">*</string>
+    <string name="division">/</string>
+    <string name="igual">=</string>
+    <string name="delete">Borrar</string>
+</resources>
